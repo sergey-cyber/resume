@@ -4,7 +4,7 @@
 
 - 5 лет коммерческой разработки в АО СберТех
 - Основная роль: Frontend-инженер (React/TypeScript), разработка и развитие enterprise-приложения (кодовая база ~70k строк)
-- Дополнительно: разработка backend на Java/Spring — разработка REST API, OpenAPI-спек
+- Дополнительно: разработка backend на Java/Spring — разработка REST API, OpenAPI
 
 ## Ключевые достижения
 
@@ -49,12 +49,12 @@
 
 ## Технологический стек
 
-**Frontend (основной опыт):** React 18, TypeScript, Vite, Axios, Cypress (E2E + component), i18next, Redux Toolkit, NextJS-App Router (некоммерческий опыт)  
+**Frontend (основной опыт):** React, TypeScript, Vite, Axios, Cypress (E2E + component), i18next, Redux Toolkit, NextJS-App Router (некоммерческий опыт)  
 **Backend (дополнительный опыт):** Java 17, REST API, Spring Boot, JUnit
 
 ## Контакты
 
-Telegram: @sozenkovich  
-Email: zenkovich_so@mail.ru  
-Номер телефона: +7 (983) 402-71-56  
-Город/Статус: Новосибирск / удалёнка
+- Telegram: [@sozenkovich](https://t.me/sozenkovich)
+- Email: [zenkovich_so@mail.ru](mailto:zenkovich_so@mail.ru)
+- Телефон: [+7 (983) 402-71-56](tel:+79834027156)
+- Город: Новосибирск (удалёнка)
